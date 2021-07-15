@@ -1,11 +1,11 @@
 .product-grid7 {
-  font-family: 'Roboto Slab',serif;
+  font-family: 'Roboto Slab', serif;
   position: relative;
   z-index: 1;
 }
 
 .product-grid7 .product-image7 {
-  border: 1px solid rgba(0,0,0,.1);
+  border: 1px solid rgba(0, 0, 0, .1);
   overflow: hidden;
   perspective: 1500px;
   position: relative;
@@ -117,7 +117,7 @@
 .product-grid7 .price {
   color: #333;
   font-size: 20px;
-  font-family: Lora,serif;
+  font-family: Lora, serif;
   font-weight: 700;
   margin-bottom: 8px;
   text-align: center;
@@ -133,7 +133,7 @@
   display: inline-block;
 }
 
-@media only screen and (max-width:990px) {
+@media only screen and (max-width: 990px) {
   .product-grid7 {
     margin-bottom: 30px;
   }
