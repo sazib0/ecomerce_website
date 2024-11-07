@@ -1,2 +1,4 @@
-# ecomerce_website
+# E-Comerce website
+
 !! Education purposes only 
+

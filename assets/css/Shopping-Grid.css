@@ -57,14 +57,14 @@
 
 .product-grid7 .social li a {
   color: #c3c3c3;
-  background-color: #000000;
+  background-color: #000000b2;
   font-size: 40px;
   line-height: 40px;
   text-align: center;
   height: 40px;
   width: 74px;
   margin: 15px 0;
-  border-radius: 50%;
+  border-radius: 4px;
   display: block;
   transition: all .5s ease-in-out;
 }
